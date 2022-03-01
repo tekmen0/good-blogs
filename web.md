@@ -4,4 +4,4 @@
 * https://mattsegal.dev/django-spa-infrastructure.html 
 
 [Traefik Official Tutorials](https://doc.traefik.io/) - devops
-* https://doc.traefik.io/traefik 
+* https://doc.traefik.io/traefik/routing/routers/
