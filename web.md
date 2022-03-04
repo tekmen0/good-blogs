@@ -5,3 +5,6 @@
 
 [Traefik Official Tutorials](https://doc.traefik.io/) - devops
 * https://doc.traefik.io/traefik/routing/routers/
+
+https://www.twilio.com/blog/asynchronous-tasks-in-python-with-redis-queue#:~:text=RQ%20(Redis%20Queue)%20is%20a,other%20libraries%20such%20as%20Celery.
+
