@@ -8,3 +8,5 @@
 
 https://www.twilio.com/blog/asynchronous-tasks-in-python-with-redis-queue#:~:text=RQ%20(Redis%20Queue)%20is%20a,other%20libraries%20such%20as%20Celery.
 
+https://www.twilio.com/blog/generating-nintendo-music-over-the-phone-with-magenta-and-twilio
+
