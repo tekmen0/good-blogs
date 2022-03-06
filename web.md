@@ -10,3 +10,6 @@ https://www.twilio.com/blog/asynchronous-tasks-in-python-with-redis-queue#:~:tex
 
 https://www.twilio.com/blog/generating-nintendo-music-over-the-phone-with-magenta-and-twilio
 
+https://gyires.inf.unideb.hu/GyBITT/08/pt02.html
+
+
